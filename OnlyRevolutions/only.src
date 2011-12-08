@@ -2,7 +2,7 @@
 *author: Danielewski & ENGL 457
 *purpose: /ʌnon/
 */
-strRLabel = "<img src=\"//find image of circle with two lines.gif\" alt=\"Verwijder\">";
+strRLabel = "<img src=\"//find image of circle with two lines.gif\";
 <parameters>	<*program: /bigɪn/
 {		OPT. flip//reverse//bigɪn}
 			180.180.180.180.infinite
@@ -69,10 +69,6 @@ project.term.	<end/abort>
 <dt>var List = new Array()
 List["date"] = "Nov 22 1863", "Nov 22 1963", "Nov 23 1963", "Sept 27 1864"</dt>  
 <dd>var Date = new Array()
-Date["event"] = "Bloddy Bill, 24go.", "70,300 go", "The Clouds", "-he's gone.", "Bethesda", "Italian accord."</dd>  
+Date["event"] = "Bloddy Bill, 24go.", "70,300 go", "The Clouds", "-he's gone.", "Bethesda", "Italian accord."</dd> /dl> 
   
   
-    <script type="text/javascript" src="jquery-1.3.2.js"></script>  
-    <script type="text/javascript">  
-  
-    </script> 
