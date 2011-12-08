@@ -2,6 +2,7 @@
 *author: Danielewski & ENGL 457
 *purpose: /ʌnon/
 */
+strRLabel = "<img src=\"//find image of circle with two lines.gif\" alt=\"Verwijder\">";
 <parameters>	<*program: /bigɪn/
 {		OPT. flip//reverse//bigɪn}
 			180.180.180.180.infinite
