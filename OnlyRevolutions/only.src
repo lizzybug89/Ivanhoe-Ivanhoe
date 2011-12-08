@@ -8,6 +8,7 @@
 
 #import "American History 1863-2063" //narrated by:
 {						OPT. <green>sam:/sæm/</green> |||| <yellow>hailey:/heli/</yellow> }
+{						OPT. <purple>thecreep:/creep/</purple>}
 
 var OR = "Only Revolutions"
 var Sam = "Sam"
@@ -62,3 +63,15 @@ project.term.	<end/abort>
 			180.180.180.180.infinite>
 	.goodluck/
 /
+
+<dl id="ticker">  
+<dt>var List = new Array()
+List["date"] = "Nov 22 1863", "Nov 22 1963", "Nov 23 1963", "Sept 27 1864"</dt>  
+<dd>var Date = new Array()
+Date["event"] = "Bloddy Bill, 24go.", "70,300 go", "The Clouds", "-he's gone.", "Bethesda", "Italian accord."</dd>  
+  
+  
+    <script type="text/javascript" src="jquery-1.3.2.js"></script>  
+    <script type="text/javascript">  
+  
+    </script> 
